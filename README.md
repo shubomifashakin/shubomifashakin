@@ -1,6 +1,7 @@
 ### Tech Stack 🎒 <br/>
 - Fundamentals: Html, Css, Javascript
-- Frameworks: React
+- Frameworks: <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+"/>
 - Styling & Animations: TailwindCSS, GSAP
 - Version Control: Git, Github(obviously🤣)
 - Learning: Nextjs,Typescript,Docker
