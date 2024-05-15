@@ -1,5 +1,5 @@
 
-## 📦 Toolbox
+## Toolbox 🛠📦
 
 **Fundamentals:** `HTML` `CSS` `JavaScript` `TypeScript`
 
