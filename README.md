@@ -7,7 +7,7 @@
 
  **Styling & Animations:** `TailwindCSS` `GSAP`
 
-**Version Control:** `Git` `GitLab`
+**Version Control:** `Git` `GitHub`
 
 **Others:** `Supabase` `Zustand`
 
