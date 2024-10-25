@@ -1,9 +1,11 @@
 
 ## Toolbox 🛠📦
 
-**Fundamentals:** `HTML` `CSS` `JavaScript` `TypeScript`
+**Fundamentals:** `HTML` `CSS` `JavaScript` `TypeScript` 
 
-**Frameworks:** `React`
+**Frameworks:** `React` `NextJs`
+
+**Database/ORM:** `PostgreSQL` `Prisma`
 
  **Styling & Animations:** `TailwindCSS` `GSAP`
 
@@ -11,7 +13,7 @@
 
 **Others:** `Supabase` `Zustand`
 
-**Learning:** `NextJs` `Docker`
+**Learning:**  `Docker` `NodeJs` `Express`
 <!--
 **shubomifashakin/shubomifashakin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
