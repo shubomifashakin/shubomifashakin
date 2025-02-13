@@ -3,7 +3,7 @@
 
 **Fundamentals:** `HTML` `CSS` `JavaScript` `TypeScript` 
 
-**Frameworks:** `React` `NextJs`
+**Frameworks:** `React` `NextJs` `Express`
 
 **Database/ORM:** `PostgreSQL` `Prisma`
 
@@ -11,9 +11,13 @@
 
 **Version Control:** `Git` `GitHub`
 
+**Cloud:** `AWS`
+
+**IaC:**  `AWS-CDK`
+
 **Others:** `Supabase` `Zustand`
 
-**Learning:**  `Docker` `NodeJs` `Express`
+**Learning:** `Docker`
 <!--
 **shubomifashakin/shubomifashakin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
