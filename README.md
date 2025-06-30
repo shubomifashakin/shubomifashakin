@@ -5,7 +5,7 @@
 
 **Frameworks:** `React` `NextJs` `Express`
 
-**Database/ORM:** `PostgreSQL` `Prisma`
+**Database/ORM:** `PostgreSQL` `Prisma` `Dynamo Db`
 
  **Styling & Animations:** `TailwindCSS` `GSAP`
 
@@ -15,9 +15,7 @@
 
 **IaC:**  `AWS-CDK`
 
-**Others:** `Supabase` `Zustand`
-
-**Learning:** `Docker`
+**Others:**  `Zustand` `React Query` `Docker`
 <!--
 **shubomifashakin/shubomifashakin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
