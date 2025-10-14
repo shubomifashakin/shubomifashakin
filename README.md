@@ -3,9 +3,9 @@
 
 **Fundamentals:** `HTML` `CSS` `JavaScript` `TypeScript` 
 
-**Frameworks:** `React` `NextJs` `Express`
+**Frameworks:** `React` `NextJs` `Express` `NestJs` `React Native` `Expo`
 
-**Database/ORM:** `PostgreSQL` `Prisma` `Dynamo Db`
+**Database/ORM:** `PostgreSQL` `Prisma` `Dynamo Db` `SQLite` `Redis`
 
  **Styling & Animations:** `TailwindCSS` `GSAP`
 
